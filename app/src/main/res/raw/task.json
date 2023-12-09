@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Reminders by malik",
+      "description": "Tugas Infinite Learning",
+      "dueDate": 1577811600000,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Reminders",
+      "description": "Reminders app",
+      "dueDate": 1655226000000,
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Reminders",
+      "description": "Android Developer!",
+      "dueDate": 173578000000,
+      "completed": false
+    }
+  ]
+}
